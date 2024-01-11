@@ -1,0 +1,19 @@
+@media (max-width: 1138px) {
+  .nav {
+    padding: 20px 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  .bar {
+    display: block;
+  }
+
+  .list {
+    display: none;
+  }
+
+  .nav {
+    padding: 20px 20px;
+  }
+}
